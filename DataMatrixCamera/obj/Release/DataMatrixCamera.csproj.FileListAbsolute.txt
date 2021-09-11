@@ -1,0 +1,10 @@
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\bin\Release\DataMatrixCamera.exe.config
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\bin\Release\DataMatrixCamera.exe
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\bin\Release\DataMatrixCamera.pdb
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\bin\Release\ArenaNET_v140.dll
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\obj\Release\DataMatrixCamera.Form1.resources
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\obj\Release\DataMatrixCamera.Properties.Resources.resources
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\obj\Release\DataMatrixCamera.csproj.GenerateResource.Cache
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\obj\Release\DataMatrixCamera.exe
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\obj\Release\DataMatrixCamera.pdb
+c:\users\islombek\documents\visual studio 2017\Projects\DataMatrixCamera\DataMatrixCamera\obj\Release\DataMatrixCamera.csprojResolveAssemblyReference.cache
